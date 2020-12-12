@@ -1,0 +1,6 @@
+name: CustomMon
+version: 1.0
+main: customMob.Main
+
+commands:
+  za:
